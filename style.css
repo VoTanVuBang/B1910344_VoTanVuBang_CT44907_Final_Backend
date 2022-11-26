@@ -1,0 +1,16 @@
+.product:hover{
+    background-color: antiquewhite;
+    color: red;
+}
+.product{
+    padding-right:36px ;
+    margin: 20px 36px;
+}
+.title{
+    text-align: center;
+    font-size: 36px;
+}
+.footer p {
+    text-align: center;
+    font-weight: 900;
+}
